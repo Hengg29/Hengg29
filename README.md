@@ -11,17 +11,8 @@
 
  
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexander-hernandez-h.alexander-hernandez-h" />
-</div>
-
-###
-
 <h1 align="center">Hola 👋 Soy Alexander</h1>
 
----
 
 ## 👨‍💻 Sobre mí
 

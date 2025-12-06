@@ -8,11 +8,9 @@
   <a href="https://www.linkedin.com/in/alexander-hernandez-henggeler-2676772b8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-
- 
+</div>
 
 <h1 align="center">Hola 👋 Soy Alexander</h1>
-
 
 ## 👨‍💻 Sobre mí
 
@@ -20,7 +18,7 @@ Soy **Alexander Hernandez Henggeler**, desarrollador con enfoque en **desarrollo
 
 - 🔭 Actualmente trabajando en proyectos con **React**, **TypeScript** y **arquitectura web moderna**.  
 - 📚 Siempre mejorando mis habilidades y aprendiendo nuevas tecnologías del ecosistema JavaScript.  
-- ⚡ Me encanta experimentar, crear pequeñas apps, resolver problemas y explorar nuevas herramientas.  
+- ⚡ En mis tiempos libres me gusta aprender nuevas tecnologías, experimentar con ideas y seguir creciendo como desarrollador.  
 - 🚀 Mi objetivo: convertirme en un desarrollador sólido, limpio y capaz de construir productos escalables.
 
 ---
@@ -44,7 +42,3 @@ Soy **Alexander Hernandez Henggeler**, desarrollador con enfoque en **desarrollo
 </div>
 
 ---
-
-
-
-

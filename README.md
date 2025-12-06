@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 soy Alexander</h1>
+<h1 align="center">Hola 👋 soy Alexander</h1>
 
 ###
 

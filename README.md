@@ -9,10 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-</div>
+ 
 
 ###
 
@@ -57,38 +54,6 @@ Soy **Alexander Hernandez Henggeler**, desarrollador con enfoque en **desarrollo
 
 ---
 
-## 🚀 Proyectos destacados
 
-⭐ **Portafolio Web — React + TypeScript**  
-Sitio moderno, animaciones, dark mode y proyectos reales.
 
-⭐ **API REST con Node.js + MySQL**  
-CRUD completo, autenticación básica y arquitectura modular.
 
-⭐ **Mini apps en React**  
-ToDos, dashboards, componentes reutilizables y experimentos.
-
-*(Si quieres, puedo escribir descripciones y enlaces perfectos para GitHub.)*
-
----
-
-## 📊 Stats de GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alexander-hernandez-h&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-hernandez-h&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 📫 Contáctame
-
-📩 **Email:** *si deseas lo agrego aquí*  
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/alexander-hernandez-henggeler-2676772b8/  
-🎥 **YouTube:** *pásame tu canal y lo agrego*
-
----
-
-### ¿Quieres que lo deje más minimalista, más colorido o que le agregue una sección de "Experiencia" o "Certificaciones"?  
-Puedo ajustarlo al estilo que quieras. 🚀

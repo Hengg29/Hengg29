@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Alexander Hernandez Henggeler**, desarrollador con enfoque en **desarrollo web** (frontend y backend básico).
+Soy **Alexander Hernandez Henggeler**, desarrollador con enfoque en **desarrollo web** (frontend y backend).
 
 - 🔭 Actualmente trabajando en proyectos con **React**, **TypeScript** y **arquitectura web moderna**.  
 - 📚 Siempre mejorando mis habilidades y aprendiendo nuevas tecnologías del ecosistema JavaScript.  

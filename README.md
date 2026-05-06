@@ -5,6 +5,9 @@
 </div>
 
 <h1 align="center">Alexander Hernandez Henggeler</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
 ## Sobre mí
 

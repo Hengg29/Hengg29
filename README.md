@@ -11,7 +11,7 @@
 
 ## Sobre mí
 
-Estudiante de Ingeniería en Sistemas y Negocios Digitales en México, a punto de graduarme. Me muevo entre el desarrollo web y la IA aplicada, sobre todo visión por computadora. Lo que más disfruto es tomar un problema real, mapearlo a un modelo o servicio, y exponerlo en una interfaz que cualquiera pueda usar.
+Ingeniero en Sistemas y Negocios Digitales en México, a punto de graduarme. Me muevo entre el desarrollo web y la IA aplicada, sobre todo visión por computadora. Lo que más disfruto es tomar un problema real, mapearlo a un modelo o servicio, y exponerlo en una interfaz que cualquiera pueda usar.
 
 Cuando no estoy programando estoy viendo La Liga o leyendo sobre nuevas técnicas de detección y matching de color.
 
